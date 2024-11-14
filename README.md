@@ -11,14 +11,26 @@ Here’s a quick look at what **E-dziennik** offers:
 ### **Dashboard**
 The **Dashboard** provides an intuitive overview of all essential data at a glance. Quickly access attendance statistics, grade summaries, and student profiles in one place.
 
+![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
+*Screenshot of the dashboard showing attendance statistics and grade summaries.*
+
 ### **Attendance Tracking**
 Easily track and manage student attendance with clear visual indicators. Monitor each student’s presence, lateness, or absence and generate attendance reports seamlessly.
+
+![Attendance Tracking](https://via.placeholder.com/800x400.png?text=Attendance+Tracking)
+*Visual indicators for attendance tracking.*
 
 ### **Grade Overview**
 View, update, and analyze students’ grades effortlessly. The **Grade Overview** provides an organized summary of performance, helping educators and students focus on progress and achievements.
 
+![Grade Overview](https://via.placeholder.com/800x400.png?text=Grade+Overview)
+*The Grade Overview section for easy access to student performance.*
+
 ### **Student Profile**
 Comprehensive **Student Profiles** contain essential information, including personal details, academic performance, and attendance history, all in one place for easy reference.
+
+![Student Profile](https://via.placeholder.com/800x400.png?text=Student+Profile)
+*Detailed student profile with academic and attendance information.*
 
 ---
 
