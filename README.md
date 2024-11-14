@@ -11,25 +11,25 @@ Here’s a quick look at what **E-dziennik** offers:
 ### **Dashboard**
 The **Dashboard** provides an intuitive overview of all essential data at a glance. Quickly access attendance statistics, grade summaries, and student profiles in one place.
 
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
+![Dashboard](https://img.freepik.com/free-vector/professional-dashboard-element-collection_23-2148360993.jpg?semt=ais_hybrid)
 *Screenshot of the dashboard showing attendance statistics and grade summaries.*
 
 ### **Attendance Tracking**
 Easily track and manage student attendance with clear visual indicators. Monitor each student’s presence, lateness, or absence and generate attendance reports seamlessly.
 
-![Attendance Tracking](https://via.placeholder.com/800x400.png?text=Attendance+Tracking)
+![Attendance Tracking](https://img.freepik.com/premium-photo/man-pointing-designated-meeting-attendance-tracking-system_1218867-7093.jpg)
 *Visual indicators for attendance tracking.*
 
 ### **Grade Overview**
 View, update, and analyze students’ grades effortlessly. The **Grade Overview** provides an organized summary of performance, helping educators and students focus on progress and achievements.
 
-![Grade Overview](https://via.placeholder.com/800x400.png?text=Grade+Overview)
+![Grade Overview](https://media.istockphoto.com/id/1143017063/vector/school-grade-results-vector-icons-letters-and-plus-grades-marks-in-red-circle.jpg?s=612x612&w=0&k=20&c=bsycxRXFcTjOIWm1vtd7D30vxtLuW-Zu_RG62HyQD6k=)
 *The Grade Overview section for easy access to student performance.*
 
 ### **Student Profile**
 Comprehensive **Student Profiles** contain essential information, including personal details, academic performance, and attendance history, all in one place for easy reference.
 
-![Student Profile](https://via.placeholder.com/800x400.png?text=Student+Profile)
+![Student Profile](https://plus.unsplash.com/premium_photo-1682089892133-556bde898f2c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3R1ZGVudCUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D)
 *Detailed student profile with academic and attendance information.*
 
 ---
