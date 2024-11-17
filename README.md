@@ -41,11 +41,11 @@ Comprehensive **Student Profiles** contain essential information, including pers
 
 E-dziennik is built using modern web technologies to ensure reliability and efficiency:
 
-- **Frontend**: React (JavaScript/TypeScript), Next.js for server-side rendering and routing
-- **Backend**: Node.js with Express
-- **Database**: MongoDB for secure and scalable data storage
-- **Authentication**: JSON Web Tokens (JWT) for secure login and session management
-- **Hosting**: Deployed on Vercel with continuous integration and deployment (CI/CD)
+- **Frontend** React (JavaScript/TypeScript), Next.js for server-side rendering and routing
+- **Backend** Node.js with Express
+- **Database** MongoDB for secure and scalable data storage
+- **Authentication** JSON Web Tokens (JWT) for secure login and session management
+- **Hosting** Deployed on Vercel with continuous integration and deployment (CI/CD)
 
 ### Getting Started
 
