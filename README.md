@@ -20,7 +20,7 @@ Easily track and manage student attendance with clear visual indicators. Monitor
 View, update, and analyze students’ grades effortlessly. The **Grade Overview** provides an organized summary of performance, helping educators and students focus on progress and achievements.
 
 ![Grade Overview](https://media.istockphoto.com/id/1143017063/vector/school-grade-results-vector-icons-letters-and-plus-grades-marks-in-red-circle.jpg?s=612x612&w=0&k=20&c=bsycxRXFcTjOIWm1vtd7D30vxtLuW-Zu_RG62HyQD6k=)
-*The Grade Overview section for easy access to student performance.* [IMAGE]
+*The Grade Overview section for easy access to student performance.* 
 
 ### Student Profile
 Comprehensive **Student Profiles** contain essential information, including personal details, academic performance, and attendance history, all in one place for easy reference.
