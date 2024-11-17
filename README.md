@@ -1,7 +1,5 @@
 Welcome to **E-dziennik**, the ultimate solution for managing student records, grades, attendance, and profiles in one streamlined digital journal. Built with performance, functionality, and ease of use in mind, **E-dziennik** transforms traditional school administration into a fully digital experience.
 
----
-
 ## Key Features
 
 Here’s a quick look at what **E-dziennik** offers:
@@ -30,8 +28,6 @@ Comprehensive **Student Profiles** contain essential information, including pers
 ![Student Profile](https://plus.unsplash.com/premium_photo-1682089892133-556bde898f2c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3R1ZGVudCUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D)
 *Detailed student profile with academic and attendance information.*
 
----
-
 ## Additional Functionalities
 
 - **Login System**: Secure and personalized access for students, teachers, and administrators, ensuring data privacy and role-specific views.
@@ -40,7 +36,6 @@ Comprehensive **Student Profiles** contain essential information, including pers
 - **Automated Reports**: Generate attendance and grade reports instantly, saving time and providing valuable insights.
 - **User-Friendly Interface**: Clean, intuitive design that minimizes the learning curve and enhances productivity.
 
----
 
 ## Technology Stack
 
@@ -51,8 +46,6 @@ E-dziennik is built using modern web technologies to ensure reliability and effi
 - **Database**: MongoDB for secure and scalable data storage
 - **Authentication**: JSON Web Tokens (JWT) for secure login and session management
 - **Hosting**: Deployed on Vercel with continuous integration and deployment (CI/CD)
-
----
 
 ## Getting Started
 
