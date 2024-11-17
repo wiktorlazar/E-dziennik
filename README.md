@@ -1,6 +1,6 @@
 Welcome to **E-dziennik**, the ultimate solution for managing student records, grades, attendance, and profiles in one streamlined digital journal. Built with performance, functionality, and ease of use in mind, **E-dziennik** transforms traditional school administration into a fully digital experience.
 
-### Key Features
+#### Key Features
 
 Here’s a quick look at what **E-dziennik** offers:
 
