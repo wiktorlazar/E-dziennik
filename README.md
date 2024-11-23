@@ -7,7 +7,7 @@ Here’s a quick look at what **E-dziennik** offers:
 ### Dashboard
 The **Dashboard** provides an intuitive overview of all essential data at a glance. Quickly access attendance statistics, grade summaries, and student profiles in one place.
 
-![Dashboard](https://img.freepik.com/free-vector/professional-dashboard-element-collection_23-2148360993.jpg?semt=ais_hybrid)
+![Dashboard](https://i.pinimg.com/enabled_lo_mid/736x/13/51/7a/13517a29009c49d94aec48aed5a1f41b.jpg)
 *Screenshot of the dashboard showing attendance statistics and grade summaries.*
 
 ### Attendance Tracking
